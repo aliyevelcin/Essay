@@ -16,3 +16,12 @@
 
     background-color: #ff0303;   
 }
+
+.card-text {
+    white-space: nowrap; 
+    width: 200px; 
+    overflow: hidden;
+    text-overflow: ellipsis; 
+    border: 1px solid #000000;
+    border:none
+}
